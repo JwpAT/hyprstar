@@ -1,1 +1,1 @@
-# hyprstar
+# hyprstar: Work in progress
